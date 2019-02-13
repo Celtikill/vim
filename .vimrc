@@ -17,8 +17,8 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'python-mode/python-mode'
 Plugin 'morhetz/gruvbox'
 Plugin 'vimwiki/vimwiki'
+" End Plugins
 
-" " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
 " "filetype plugin on
