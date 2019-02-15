@@ -28,3 +28,11 @@ set laststatus=2
 set termguicolors
 colorscheme gruvbox
 set background=dark
+
+" ALE configs
+let g:ale_sign_column_always = 1
+let g:airline#extensions#ale#enabled = 1
+let g:ale_lint_on_save = 1
+let g:ale_set_highlights = 1
+let g:ale_completion_enabled = 1
+inoremap jj <ESC> 
