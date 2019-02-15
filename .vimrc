@@ -35,4 +35,6 @@ let g:airline#extensions#ale#enabled = 1
 let g:ale_lint_on_save = 1
 let g:ale_set_highlights = 1
 let g:ale_completion_enabled = 1
+
+" remaps shitty ESC
 inoremap jj <ESC> 
