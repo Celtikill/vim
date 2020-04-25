@@ -3,4 +3,4 @@
 Uses [Vundle](http://github.com/VundleVim/Vundle.Vim).
 
 ## Hints
-- leave .vimrc in place as sym-link to it
+- leave .vimrc in place and sym-link to it
