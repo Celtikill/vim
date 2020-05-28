@@ -17,6 +17,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'python-mode/python-mode'
 Plugin 'morhetz/gruvbox'
 Plugin 'vimwiki/vimwiki'
+Plugin 'fatih/vim-go'
 " End Plugins
 
 call vundle#end()            " required
